@@ -4,8 +4,9 @@
 Build a basic recipe website using HTML.
 
 ## **What skills will be demonstrated?**
-HTML Boilerplate
-Working with text
-Lists
-Links and images
-Git commits
+* HTML Boilerplate
+* Working with text
+* Unordered and ordered lists
+* Relative links
+* Images
+* Git commits
